@@ -1,0 +1,41 @@
+{
+	"cataA":{
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		},
+	"cateB":{
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		},
+	"cateC":{
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data1":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data2":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+		"data3":{"pro1":"","pro2":"","pro3":"","pro4":"","pro5":"","pro6":"","pro7":"","pro8":""},
+	}
+}
+
+p(pro1|cateA),p(pro2|cateA),p(pro3|cateA),p(pro4|cateA),p(pro5|cateA),p(pro6|cateA),p(pro7|cateA),p(pro8|cateA),
+
+p(pro1|cateB),p(pro2|cateB),p(pro3|cateB),p(pro4|cateB),p(pro5|cateB),p(pro6|cateB),p(pro7|cateB),p(pro8|cateB),
+
+p(pro1|cateC),p(pro2|cateC),p(pro3|cateC),p(pro4|cateC),p(pro5|cateC),p(pro6|cateC),p(pro7|cateC),p(pro8|cateC),
